@@ -5,8 +5,6 @@ Imports System.Text
 
 Module servermod
     Dim port As Int32 = 8000
-
-    'Dim localAddr As IPAddress = IPAddress.Parse("127.0.0.1")
     Dim listener = New TcpListener(port)
     Dim desktop_path = My.Computer.FileSystem.SpecialDirectories.Desktop
 
