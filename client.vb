@@ -37,7 +37,7 @@ Module clientmod
                 Console.WriteLine("4. open disk tray")
                 Console.WriteLine("5. open browser:url")
                 Console.WriteLine("6. reboot machine")
-                ' Console.WriteLine("7. port scan")
+                ' Console.WriteLine("7. port scan") working on a solution
                 Console.WriteLine("7. shutdown (shutdown the server remotely)")
                 Console.WriteLine("8. exit (close the client)")
                 Console.WriteLine("")
