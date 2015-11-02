@@ -111,6 +111,10 @@ Module servermod
                         End If
                     End If
 
+                    If (message.Contains("reboot")) Then
+                        System.Diagnostics.Process.Start("ShutDown", "/r")
+                    End If
+                    
                     If (message.Contains("shutdown")) Then
                         client.Close()
                         listener.Stop()
