@@ -1,8 +1,8 @@
-# TCP/IP Chat
+# TCP/IP Client-Server Remote Connection
 
 ## Disclaimer
 
-This project has been heavily modified to the point of being more of a proof of concept rather than an actual IP chat. Also keep in mind that it was made as a homework for a computer security class. Visual Basic and the .NET libraries were used for connections. If you want to continue developing this or something similar don't hesitate to fork this repo.
+This project was made as a homework for a computer security class. Visual Basic and the .NET libraries were used for connections. If you want to continue developing this or something similar don't hesitate to fork this repo.
 
 ## Compilation
 
